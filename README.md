@@ -33,7 +33,7 @@ A replica of the Spotify app built with Flutter. This project was developed to s
 - **Git & GitHub:** For version control and sharing the code.
 
 **Screenshot 1:**
-![Screenshot 1](./assets/images/get_started.jpeg)
+![Screenshot 1](./assets/mock/Post1.png)
 
 **Screenshot 2:**
-![Screenshot 2](./assets/images/lazza.jpeg)
+![Screenshot 2](./assets/mock/Post2.png)
